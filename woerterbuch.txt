@@ -1,0 +1,7 @@
+Norway, Norwegen
+Sweden, Schweden
+Spain, Spanien
+Germany, Deutschland
+France, Frankreich
+Italy, Italien
+USA, Amerika
